@@ -1,0 +1,39 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/snap/clion/209/bin/ninja/linux/ninja cmTC_b2303 && [1/2] Building CXX object CMakeFiles/cmTC_b2303.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_b2303.dir/src.cxx.o 
+/usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -Wshorten-64-to-32   -Wshorten-64-to-32 -o CMakeFiles/cmTC_b2303.dir/src.cxx.o -c '/home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx'
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/snap/clion/209/bin/ninja/linux/ninja cmTC_2e9ef && [1/2] Building CXX object CMakeFiles/cmTC_2e9ef.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_2e9ef.dir/src.cxx.o 
+/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -wd654   -wd654 -o CMakeFiles/cmTC_2e9ef.dir/src.cxx.o -c '/home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx'
+c++: error: unrecognized command-line option '-wd654'
+c++: error: unrecognized command-line option '-wd654'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/snap/clion/209/bin/ninja/linux/ninja cmTC_8a7eb && [1/2] Building CXX object CMakeFiles/cmTC_8a7eb.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_8a7eb.dir/src.cxx.o 
+/usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -Wthread-safety   -Wthread-safety -o CMakeFiles/cmTC_8a7eb.dir/src.cxx.o -c '/home/adriano/Desktop/Projetos/AED/Ficha 5/cmake-build-debug/CMakeFiles/CMakeTmp/src.cxx'
+c++: error: unrecognized command-line option '-Wthread-safety'
+c++: error: unrecognized command-line option '-Wthread-safety'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }

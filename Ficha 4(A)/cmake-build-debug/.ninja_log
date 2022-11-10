@@ -1,0 +1,16 @@
+# ninja log v5
+31	1618	6874431912006710	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	638466a715093645
+9836	9894	6874431994787819	lib/libgtest_maind.a	45260416a4deda5f
+25	7762	6874431973339507	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	47ffbcbf7be2766
+7765	9835	6874431994186981	lib/libgtestd.a	225515846fc7050e
+1480	4489	6874487106396276	aed2223_p04.exe	ee709cf1b5570a95
+0	317	1665943016681267706	CMakeFiles/aed2223_p04.dir/Tests/product.cpp.o	e40c0d53e0f2a829
+1	318	1665943016681267706	CMakeFiles/aed2223_p04.dir/Tests/piece.cpp.o	8622625dabb6b3bd
+0	778	1665943017141218861	CMakeFiles/aed2223_p04.dir/Tests/funSortProblem.cpp.o	b38496e05a9200d6
+1	823	1665943017173215547	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	563229f78a8d91e6
+0	988	1665943017353196902	CMakeFiles/aed2223_p04.dir/main.cpp.o	e8cb536c722c5560
+0	1077	1665943017441187788	CMakeFiles/aed2223_p04.dir/Tests/tests.cpp.o	dd3312041bff72e
+1	3939	1665943020296906152	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	98f797d3e4cbf156
+3939	4244	1665943020516885755	lib/libgtestd.a	69e048ae2878b593
+4244	4279	1665943020644873888	lib/libgtest_maind.a	73981ee0c4ff35ee
+4279	4412	1665943020772862020	aed2223_p04	5f78a972b96a12c
